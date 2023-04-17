@@ -1,7 +1,5 @@
 # m2c-professional-portfolio
 
-Summary: Portfolio of work showcasing skills and talents to employers created by applying the following skills: flexbox, media queries, and CSS variables.
-
 User Story:
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
